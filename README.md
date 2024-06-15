@@ -1,4 +1,4 @@
-# Newest-PID-Finder-
+# Newest-Kogama-PID-Finder
 Simple tool to track the last profile that was created, perhaps you can create rare ID's.
 
 - Checks the given profile ID.
@@ -13,3 +13,14 @@ It retrieves the page content, searches for specific script tags to extract the 
 - Continuously checks profiles starting from a given ID, printing out details of each newly created profile.
 
 - extra: Retrieves the last online timestamp for a specified profile ID or URL, converting it to the local timezone for display.
+
+
+![Screenshot](https://github.com/xazitya/Newest-PID-Finder-/assets/82046838/52ebe511-3a5c-43ee-96bf-dab2d607e146)
+
+- Requirements:
+
+Python 3.11.9
+
+bs4 (BeautifulSoup)
+
+pytz
