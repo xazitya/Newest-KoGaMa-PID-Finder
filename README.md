@@ -19,8 +19,13 @@ It retrieves the page content, searches for specific script tags to extract the 
 
 - Requirements:
 
-Python 3.11.9
+  -Python 3.11.9
 
-bs4 (BeautifulSoup)
+  -bs4 (BeautifulSoup)
 
-pytz
+  -pytz
+
+
+- Usage
+
+  -python NewestPID.py
