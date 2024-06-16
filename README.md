@@ -23,6 +23,8 @@ It retrieves the page content, searches for specific script tags to extract the 
 
   -bs4 (BeautifulSoup)
 
+  -colorama
+
   -pytz
 
 
